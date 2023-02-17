@@ -1,0 +1,561 @@
+27
+Logo
+Images/Logo.png
+0
+Title
+Images/Title.png
+0
+Menu
+Images/Menu.png
+0
+Exit
+Images/Exit.png
+0
+Intro
+Images/Instructions.png
+0
+Level 1 Screen 1 STARTCODE
+Images/Background1.png
+3
+TB,9,100,2,true,1
+1 LEVEL 1
+1 Alright buddy, do you know the controls or not?
+0 1. No
+0 2. Yes
+0 3. I don't need to know the controls.
+0  
+1 Press the arrow keys to move, go to the light post.
+1 I had a feeling you were a smart one.
+1 If that is how you wanna play, go ahead.
+WP,300,600,100,10
+EP,500,580,100,10
+Level 1 Screen 2 STARTCODE
+Images/Background2.png
+4
+TB,7,-500,-200,false,1
+1 Welcome to Glumridge!
+1 Enjoy your time here, but beware of spikes!
+1 That's it for me, but you might wanna check your 
+1 phone. Your brother might check in on you.
+1    
+2 Sawyer: How is it going Dante? I heard Glumridge
+2 is a nice place to live. 
+S,300,650,8
+S,500,650,8
+EP,800,580,100,10
+Level 1 Screen 3 STARTCODE
+Images/Background3.png
+3
+TB,14,-500,-200,false,1
+0 I just arrived, but it doesn't seem that bad.
+0    
+2 Sawyer: Nice, I heard it was a long trip, you
+2 should get some rest.
+0   
+0 Yeah it looks like there is an inn up ahead,
+0 but I really shouldn't waste time here. It
+0 took a lot of work to get here.
+0     
+2 Sawyer: If that is what you say so, just 
+2 don't go too hard on yourself.
+0    
+0 Sorry I gotta put you on hold for a 
+0 minute, there are people up ahead.
+SS,300,600,10
+EP,800,580,100,10
+Level 1 Screen 4 STARTCODE
+Images/Background4.png
+2
+TB,20,100,3,true,1
+3 Hello there, my name is Robin and welcome
+3 to my inn.
+0    
+0 1. I should get going.
+0 2. Hi my name is Dante!
+0 3. Uh... I wasn't planning on staying.
+3    
+3 Robin: Dante is it? There is no rush.
+3 Robin: Nice to meet you Dante!
+3 Robin: That's alright, we have extra room!  
+3 Hi Dante, you look very hungry and 
+3 tired. Do you want to rest up tonight and
+3 stay at my inn?
+0 
+0 I'm hungry, but I really ought to get going.    
+0 
+3 Robin: If you say so, but if you ever
+3 change your mind, feel free to come back.
+0    
+0 Sure thing.
+EP,800,660,100,10
+Level 1 Screen 5 STARTCODE
+Images/Background5.png
+4
+TB,22,200,15,true,1
+2 Sawyer: Who was that?
+0 
+0 Oh, just the inn owner. They were asking me if
+0 I wanted to stay for a bit.
+0 
+2 Sawyer: And... What did you say?
+0 
+0 I don't have time for that, I am going to a new 
+0 school and I want to get there early.
+0 
+2. Sawyer: You know you should really be taking 
+2. care of yourself. Let me tell you a bit about 
+2. self-neglect, I'm doing a research paper on it.
+2. Do you know what self-neglect is?
+0 
+0 1. No
+0 2. Obviously!
+0 3. I don't care.
+0 
+2 Then allow me to explain...
+2 Very funny Dante...
+2 Too bad, cause I'm explaining regardless
+WP,600,580,100,10
+S,700,650,20
+EP,800,480,100,10
+Level 1 Screen 6 STARTCODE
+Images/Background2.png
+5
+TB,20,-200,-200,false,1
+2 Sawyer: Basically, Self Neglect is the inability
+2 or unwillingness of someone to take care of 
+2 themselves. This can include failure to take care
+2 of personal hygiene or meet nutritional needs.
+2 
+0 Kinda sounds like you are implying something 
+0 here... Do you think I have self-neglect?
+0 
+2 Sawyer: You said it not me. But do not be
+2 too worried, there are many types of self-neglect.
+2 Many young people have basic self-neglect when
+2 they are not taking care of themselves.
+2 This can include "cough cough" staying hungry.
+0 
+0 Alright fine, I understand.
+0 
+2 Sawyer: Extreme types of self-neglect can result
+2 in self-harm and even severe illnesses.
+0 
+0 Wow...
+SS,200,600,10
+SS,400,600,10
+SS,600,600,10
+EP,800,580,100,10
+Level 1 Screen 7 STARTCODE
+Images/Background7.png
+7
+TB,30,150,20,true,1
+2 Sawyer: For people like you, you seem to have 
+2 milder forms of self-neglect. These include 
+2 not taking enough care about your health and
+2 hygiene, as well as not sleeping enough.
+2 People who suffer from self-neglect often resort 
+2 to substance abuse a w way to get by, because 
+2 they do not care about their health.
+0 
+0 Wow so I guess I should be taking more care about 
+0 myself. 
+0 
+2 Sawyer: Yeah, if you need help do not resort to  
+2 temporary coping tactics like drugs and alcohol. 
+2 
+0 So if I am exhausted and tired, would it be
+0 that bad to just take a few sips of beer to keep
+0 myself going.
+0 
+2 Sawyer: What do you think?
+2 
+0 1. It seems like a good idea!
+0 2. No, that would only help temporarily.
+0 3. I have no clue.
+0 
+2. Come on man? That is bad for the long-term.
+2. Finally, you are getting smarter.
+2. Alright lemme explain.
+2. Sawyer: So the alcohol would only be a temporary 
+2. solution. In the long term, you need to take
+2. care of yourself properly.
+S,200,650,2
+S,400,650,2
+S,600,650,2
+S,800,650,2
+S,0,502,95
+EP,850,660,100,10
+Level 1 Screen 8 STARTCODE
+Images/Background8.png
+2
+TB,15,-150,-20,false,1
+0 Alright, so I am almost at the school. The
+0 instructor wanted me to arrive early to 
+0 help him with something. I want to make
+0 a good first impression. Any tips?
+0 
+2 Sawyer: You are taking this seriously, which
+2 is good, but also make sure you are taking
+2 care of yourself. Nothing makes a worse 
+2 impression than showing up like a tryhard who
+2 doesn't have a life.
+0 
+0 So I should focus on myself first?
+0 
+2 Sawyer: Yeah, if you need some time to sleep 
+2 and rest up, tell it to him. 
+EP,850,660,100,10
+Level 2 Screen 1(9) STARTCODE
+Images/Background9.png
+3
+TB,19,400,10,true,1
+1 LEVEL 2
+4 Mr. Dez: Hello good sir! I assume your name
+4 is Dante?
+0 
+0 Yes sir. 
+0 
+4 Mr. Dez: Wonderful! Thank you for accepting my 
+4 invitation. I know it is late at night, but I 
+4 trust you will help me move my stuff upstairs.
+4 
+0 1. Sorry, but I am very tired right now.
+0 2. Of course!
+0 3. I am tired, but I suppose I can help.
+0. 
+4 Mr. Dez: Oh it will just be a few minutes.
+4 Mr. Dez: Wonderful!
+4 Mr. Dez: That's the spirit!
+4 Straight upstairs good sir, and be careful of 
+4 the spikes, this area does need a renovation.
+WP,600,660,100,10
+EP,800,580,100,10
+Level 2 Screen 2(10) STARTCODE
+Images/Background10.png
+9
+TB,26,0,7,true,1
+0 Alright I am ready to help. "cough cough"
+0 Where do I go?
+0 
+4 Mr. Dez: Oh dear, you appear quite ill. I 
+4 think you are in no condition to help me 
+4 right now. You must rest, right?
+0 
+0 1. (lie) No sir, I am perfect.
+0 2. (truth) Yes, I do feel terrible.
+0 3. (rude) Maybe you need to rest old man?
+0 
+4 Mr. Dez: Stop lying, you need rest. 
+4 Mr. Dez: I admire you for saying the truth.
+4 Mr. Dez: No need to get aggressive son,   
+4 If we go upstairs, we have a guest room 
+4 you can stay in. Rest until you feel well.
+0 
+0 Yes sir.
+0 
+4 Mr. Dez: The next few rooms are very old and  
+4 worn out so be careful, so let's play a game.
+4 I'll ask you a question, if you get it right,
+4 I give you tips, otherwise, you are on your
+4 own. Keep checking your phone and good luck!
+0 
+0 I can do this. 
+S,300,650,45
+S,300,400,45
+S,500,650,45
+S,500,400,45
+WP,320,600,100,10
+WP,500,500,100,10
+WP,650,600,100,10
+EP,800,500,100,10
+Level 2 Screen 3(11) STARTCODE
+Images/Background2.png
+11
+TB,14,0,5,true,1
+4 Mr. Dez: Alright lad time to see if you 
+4 know about self-neglect. If you are playing
+4 soccer and trip and fall, is this injury an
+4 examples of self-neglect?
+0 
+0 1. No.
+0 2. Yes.
+0 3. Falling is for weak people.
+0 
+4 Mr. Dez: Holding up makes you jump higher. 
+4 Mr. Dez: Press alt-f4 to win.
+4 Mr. Dez: Then you shouldn't need my tip. 
+4 There you go, hopefully, you got the right 
+4 tip. Now go forth!
+SS,300,0,50
+SS,300,600,10
+SS,500,0,45
+SS,500,530,20
+SS,700,0,40
+SS,700,480,40
+WP,300,600,60,10
+WP,500,530,60,10
+WP,700,480,60,10
+EP,800,500,100,10
+Level 2 Screen 4(12) STARTCODE
+Images/Background2.png
+7
+TB,14,0,5,true,1
+4 Mr. Dez: Time for question 2. 
+4 If you're hungry, but do not see this as a 
+4 problem and do not eat, is this an
+4 example of self neglect?
+0 
+0 1. No.
+0 2. Yes.
+0 3. Food is not important.
+0 
+4 Mr. Dez: Jump into spikes to get the tip. 
+4 Mr. Dez: Jump high, control where you fall.
+4 Mr. Dez: A healthy diet is vital to health. 
+4 There you go, hopefully, you got the right 
+4 tip. Now go forth!
+S,100,650,90
+WP,100,600,30,10
+WP,275,600,30,10
+WP,445,600,30,10
+WP,650,600,30,10
+EP,800,550,100,10
+Level 2 Screen 5(13) STARTCODE
+Images/Background2.png
+5
+TB,14,0,5,true,1
+4 Mr. Dez: Time for question 3. 
+4 If your doctor says you are quite large  
+4 and you decide to go on a diet, is
+4 this an example of self neglect?
+0 
+0 1. No.
+0 2. Yes.
+0 3. You are just fat.
+0 
+4 Mr. Dez: Blue platforms disappear. 
+4 Mr. Dez: I am disappointed.
+4 Mr. Dez: I feel attacked. 
+4 There you go, hopefully, you got the right 
+4 tip. Now go forth!
+S,700,650,20
+WP,500,600,60,10
+BO,650,540,100,10
+EP,800,500,100,10
+Level 2 Screen 4(14) STARTCODE
+Images/Background2.png
+7
+TB,14,0,5,true,1
+4 Mr. Dez: Time for the last question. 
+4 If your feel like you are not doing    
+4 good enough and do not eat to punish 
+4 yourself, is this self neglect?
+0 
+0 1. No.
+0 2. Yes.
+0 3. I don't know.
+0 
+4 Mr. Dez: Wrong... 
+4 Mr. Dez: Full jumps give more control.
+4 Mr. Dez: Figure it out son. 
+4 There you go, hopefully, you got the right 
+4 tip. Now go forth!
+S,100,650,90
+BO,100,600,30,10
+BO,275,600,30,10
+BO,445,600,30,10
+BO,650,600,30,10
+EP,800,550,100,10
+Level 3 Screen 1(15) STARTCODE
+Images/Background11.png
+8
+TB,25,-10,-10,false,1
+1 LEVEL 1
+4 Looks like I have arrived in the room.
+0 
+4 Mr. Dez: Did you arrive at the room?
+4 
+0 Yes sir.
+4 
+4 Mr. Dez: Remember to keep your keys at
+4 hand because the door locks itself.
+4 
+0 Uh oh... I forget the keys.
+0 
+4 Mr. Dez: No! The only other way out is 
+4 to fly out.
+4 
+0 Fly? Are you drunk old man?
+4 
+4 Mr. Dez: I have been working hard on my   
+4 project for human flight.
+0 
+0 How?
+0 
+4 Press Q to fly, however, you may be 
+4 tested by a series of troubles as
+4 you escape. 
+SS,300,0,50
+SS,300,600,10
+SS,500,0,45
+SS,500,530,20
+SS,700,0,40
+SS,700,480,40
+EP,800,550,100,10
+Level 3 Screen 1(16) STARTCODE
+Images/Background11.png
+12
+TB,8,-10,-10,false,1
+2 Hey Dante, I haven't called you
+2 in 3 months. How are you holding up?
+2 
+0 Not Great...
+0 
+2 Ill ask you some questions
+2 and you tell me the answers
+2 Maybe, this can help you
+S,300,350,20
+S,300,550,20
+SS,300,0,35
+SS,300,550,30
+S,500,250,20
+S,500,450,20
+SS,500,250,10
+SS,500,450,10
+SS,700,0,25
+SS,700,450,30
+EP,800,550,100,10
+Level 3 Screen 1(17) STARTCODE
+Images/Background11.png
+8
+TB,20,0,9,true,1
+0 I haven't eaten much anymore
+0 I'm so hungry......
+0 
+2 Question 1 Dante:
+2 This is the resteraunt that
+2 you passed by before
+2 is it self neglect if you
+2 don't eat here?
+2 
+0 1.Yes
+0 2.No
+0 3.I'm so hungry,HELP ME
+0 
+2 Wrong
+2 Take a break between each column.
+2 Its ok Dante, you can get through this.
+2 
+0 Not eating at a resteraunt
+0 is not self-neglect
+0 However, not eating is self-neglect
+SS,300,0,10
+SS,300,200,100
+SS,500,0,20
+SS,500,350,100
+SS,700,0,30
+SS,700,450,100
+EP,800,550,100,10
+Level 3 Screen 1(18) STARTCODE
+Images/Background11.png
+12
+TB,9,-10,-10,false,1
+0 Sawyer, my room is so dirty
+0 I have been feeling really
+0 sick.
+0 
+2 Its ok Dante, you can get
+2 get over this. Just because your
+2 room is dirty now doesn't mean
+2 that it will always be like this.
+2 You can recover from anything
+SS,300,0,50
+SS,300,600,10
+SS,400,0,45
+SS,400,530,20
+SS,500,0,40
+SS,500,480,40
+SS,700,0,50
+SS,700,600,10
+SS,600,0,45
+SS,600,530,20
+EP,800,550,100,10
+Level 3 Screen 1(19) STARTCODE
+Images/Background11.png
+9
+TB,9,-10,-10,false,1
+0 I haven't been able to 
+0 make any friends in 
+0 Glumdale, so I shut myself in.
+0 My whole life is a wreck.
+0 Maybe I should just give up......
+0 
+2 No, Dante.
+2 You are valuable, and 
+2 you can get over this
+WP,300,530,100,10
+WP,400,370,100,10
+S,200,180,50
+S,300,380,40
+S,200,580,40
+SS,700,380,40
+SS,200,180,40
+EP,800,550,100,10
+Level 3 Screen 1(20) STARTCODE
+Images/Background11.png
+17
+TB,12,-10,-10,false,1
+0 I need Sawyer to help me.
+0 
+2 Sawyer: Alright Dante, remember to take care
+2 of yourself, I know you can do anything.
+0 
+0 But you don't understand, I'm literally 
+0 trapped.
+0 
+2 Sawyer: Remember to watch out for
+2 self-neglect, you can make it through.
+0 
+0 Uh... I guess I can try and fly through
+WP,300,600,10,100
+WP,300,600,400,10
+WP,0,600,200,10
+WP,200,500,10,100
+WP,0,300,100,10
+WP,100,300,10,200
+WP,100,400,800,10
+WP,800,500,10,200
+WP,800,500,100,10
+WP,800,500,10,200
+WP,800,500,100,10
+WP,200,300,700,10
+WP,800,150,10,200
+WP,0,200,700,10
+WP,0,100,700,10
+EP,800,150,190,10
+Level 3 Screen 1(21) STARTCODE
+Images/BackgroundEnd.png
+2
+TB,12,-10,-10,false,1
+0 I'm finally free 
+0 Thank you Sawyer thank you
+0 
+2 I'm sorry Dante
+2 
+0 why.....
+0 
+2 I couldn't make it myself, this is a recording
+2 to help you do what I could not
+2 
+0 what......
+0 ......thank you Sawyer
+EP,800,700,100,10
+Level 3 Screen 1(22) STARTCODE
+Images/BackgroundEnd.png
+2
+TB,4,-10,-10,false,1
+1 Dante would proceed to leave Glumdale
+1 A city he remembers to be a tipping point
+1 in his life. He suffered yet perservered
+1 and finally... achieved happiness. THE END
+EP,800,700,100,10
